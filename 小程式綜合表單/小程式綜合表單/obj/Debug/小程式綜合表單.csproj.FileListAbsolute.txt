@@ -1,0 +1,7 @@
+c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\bin\Debug\小程式綜合表單.exe.config
+c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\bin\Debug\小程式綜合表單.exe
+c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\bin\Debug\小程式綜合表單.pdb
+c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.exe
+c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.pdb

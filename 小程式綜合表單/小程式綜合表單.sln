@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "小程式綜合表單", "小程式綜合表單\小程式綜合表單.csproj", "{15075F58-CCE2-4B97-8E0B-93CA48C5764D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15075F58-CCE2-4B97-8E0B-93CA48C5764D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15075F58-CCE2-4B97-8E0B-93CA48C5764D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15075F58-CCE2-4B97-8E0B-93CA48C5764D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15075F58-CCE2-4B97-8E0B-93CA48C5764D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6E9469-B77C-40EB-AB21-DE2B2189DA94}
+	EndGlobalSection
+EndGlobal
