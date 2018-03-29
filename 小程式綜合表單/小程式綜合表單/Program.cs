@@ -650,9 +650,10 @@ int i = 1;
                     int respondnum = 0;
                     int respond;
                     double sum = 0;
+                    Console.WriteLine("這是個簡單程式,可以記錄最大值,最小值,平均值,和總共多少數字");
                     do
                     {
-                        Console.Write("請輸入一個正整數n，共可輸入n個正整數(0<n<2147483647):");
+                        Console.Write("請輸入一個正整數n，共可輸入n個正整數(0<n<2147483647),直到輸入-1做結算:");
                         respond = int.Parse(Console.ReadLine());
 
 

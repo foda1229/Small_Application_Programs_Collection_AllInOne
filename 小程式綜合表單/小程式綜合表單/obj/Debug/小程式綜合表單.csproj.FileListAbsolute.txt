@@ -5,3 +5,10 @@ c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\obj\Debug
 c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.csproj.CoreCompileInputs.cache
 c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.exe
 c:\users\user\source\repos\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.pdb
+C:\Users\USER\Documents\GitHub\Small_Application_Programs_Collection_AllInOne\小程式綜合表單\小程式綜合表單\bin\Debug\小程式綜合表單.exe.config
+C:\Users\USER\Documents\GitHub\Small_Application_Programs_Collection_AllInOne\小程式綜合表單\小程式綜合表單\bin\Debug\小程式綜合表單.exe
+C:\Users\USER\Documents\GitHub\Small_Application_Programs_Collection_AllInOne\小程式綜合表單\小程式綜合表單\bin\Debug\小程式綜合表單.pdb
+C:\Users\USER\Documents\GitHub\Small_Application_Programs_Collection_AllInOne\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\Small_Application_Programs_Collection_AllInOne\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\Small_Application_Programs_Collection_AllInOne\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.exe
+C:\Users\USER\Documents\GitHub\Small_Application_Programs_Collection_AllInOne\小程式綜合表單\小程式綜合表單\obj\Debug\小程式綜合表單.pdb
